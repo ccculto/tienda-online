@@ -2,6 +2,6 @@
 
 Proyecto en desarrollo.
 
-Version: 1.0
+Version: 1.0.1
 
 Incluye un carrito de compra con una lista de articulos.
